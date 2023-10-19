@@ -1,2 +1,2 @@
-# courseraRepo
+# courseraRepository
 Repository for IBM Certification
